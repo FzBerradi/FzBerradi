@@ -10,10 +10,10 @@ Welcome to my GitHub profile! I'm an engineering student specializing in softwar
 
 ## Skills
 
-- **Languages:** Java, PHP, HTML, CSS, JavaScript,Python
-- **Frameworks:** Laravel, JEE
+- **Languages:** C, Java, PHP, HTML, CSS, JavaScript,Python, Ajax
+- **Frameworks:** Laravel, JEE, JavaSwing
 - **Database:** MySQL,Oracle,MongoDB
-- **Tools:** Jupyter Notebook, Oxygen XML Editor,VsCode,Intellij ,NetBeans,Eclipse,SqlDeveloper,VM
+- **Tools:** Jupyter Notebook, Oxygen XML Editor,VsCode,Intellij ,NetBeans,Eclipse,SqlDeveloper, VM, Cisco Packet Tracer
 
 ## Projects
 
