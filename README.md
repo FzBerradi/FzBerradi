@@ -42,8 +42,8 @@ Utilizes Oxygen XML Editor for XML development and management tasks. Automates C
 ### [InfluenceConnectWebSite](https://github.com/FzBerradi/InfluenceConnectWebSite)
 *InfluenceConnect* connects influencers with brands via a marketplace for deals and tools for collaboration and performance tracking. Brands find suitable influencers to partner with.
 - **Technologies:** PHP, HTML, CSS, JS, MySQL
-### [InfluenceConnectWebSite](https://github.com/FzBerradi/SchoolManagementSystem)
-*SchoolManagementSystem*the School Document Management Application repository. This web application simplifies the process of requesting school documents and submitting claims. It is built using Laravel and includes various features to enhance user experience and efficiency.
+### [SchoolManagementSystem](https://github.com/FzBerradi/SchoolManagementSystem)
+*SchoolManagementSystem* the School Document Management Application repository. This web application simplifies the process of requesting school documents and submitting claims. It is built using Laravel and includes various features to enhance user experience and efficiency.
 - **Technologies:** Laravel,MySQL
 ## GitHub Stats
 
