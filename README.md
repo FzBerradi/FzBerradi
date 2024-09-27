@@ -1,19 +1,19 @@
 # Hello, I'm  Berradi 👋
 
-Welcome to my GitHub profile! I'm an engineering student specializing in software engineering, with a passion for software development, web applications, desktop application and security. Here you'll find a variety of projects that showcase my skills and interests.
+Welcome to my GitHub profile! I'm an engineering student specializing in software engineering, with a passion for software development, web applications, desktop application and networking-security. Here you'll find a variety of projects that showcase my skills and interests.
 
 ## About Me
 
-- 🎓 **Education:** Currently studying at ENSA Tetouan --4th year
+- 🎓 **Education:** Currently studying at ENSA 
 - 💬 **Ask Me About:** Web development, Desktop Application , Database ,Networking
-- 📫 **Contact Me:** [LinkedIn](https://www.linkedin.com/in/fatima-zohra-berradi-69b942237) | [Email](mailto:fatimazohraberradi@gmail.com)
+- 📫 **Contact Me:** [Email](mailto:fatimazohraberradi1@gmail.com)
 
 ## Skills
 
 - **Languages:** C, Java, PHP, HTML, CSS, JavaScript,Python, Ajax
-- **Frameworks:** Laravel, JEE, JavaSwing
-- **Database:** MySQL,Oracle,MongoDB
-- **Tools:** Jupyter Notebook, Oxygen XML Editor,VsCode,Intellij ,NetBeans,Eclipse,SqlDeveloper, VM, Cisco Packet Tracer
+- **Frameworks:** Laravel,TailwindCss, JEE, JavaSwing
+- **Database:** MySQL,Oracle,MongoDB, PL/SQL
+- **Tools:** Jupyter Notebook, Oxygen XML Editor,Docker, VsCode,Intellij ,NetBeans,Eclipse,SqlDeveloper, VM, Cisco Packet Tracer
 
 ## Projects
 
