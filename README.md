@@ -3,9 +3,9 @@
 ## Information 
 -🎓 **Education:** Computer Science Engineering Student<br>- 💬 **Ask Me About:** Web development, Desktop Application , Database ,Testing, Networking<br>- 📫 **Contact Me:** [Email](mailto:fatimazohraberradi1@gmail.com)<br><br>
 ## Skills
--**Technologies:** C, Java, PHP, HTML, CSS, JavaScript,Python, Ajax<br>- **Frameworks:** Angular, Laravel,TailwindCss, JEE, Spring Boot<br>- **Database:** MySQL,Oracle,MongoDB, PL/SQL<br>- **Tools:** Jupyter Notebook, Oxygen XML Editor,Docker, VsCode,Intellij ,NetBeans,Eclipse,SqlDeveloper, VM, Cisco Packet Tracer<br><br>
+-**Technologies:** C, Java, PHP, HTML, CSS, JavaScript,Python, Ajax<br>- **Frameworks:** Angular, Laravel,TailwindCss, JEE, Spring Boot<br>- **Database:** MySQL,Oracle,MongoDB, PL/SQL<br>- **Tools:** Jupyter Notebook, Oxygen XML Editor,Docker, VsCode,Intellij ,NetBeans,Eclipse,SqlDeveloper, VM, Cisco Packet Tracer<br>
 ## Projects
-Here are some of the projects I've been working on:<br><br>
+Here are some of the projects I've been working on:<br>
 #### [FixMyHome](https://github.com/FzBerradi/FixMyHome)<br>*FixMyHome* is designed to connect clients with professional repair and maintenance service providers, streamlining the process for both parties. The platform includes dedicated spaces for clients, partners, and service providers.<br>- **Technologies:** Laravel,MySQL<br>
 #### [EventTicketSystem](https://github.com/FzBerradi/EventTicketSystem)<br>A JEE web application where users log in, select events, and securely pay for tickets. Notifications are sent via email about new events for continuous updates.<br>- **Technologies:** JEE,MYSQL<br>
 #### [RentCar](https://github.com/FzBerradi/RentCar)<br>The RentCar site serves as a central hub for managing car rentals, streamlining the processes of booking, car availability, and client management. It enhances operational efficiency and provides a user-friendly interface.<br>- **Technologies:** Laravel,MongoDB<br>
