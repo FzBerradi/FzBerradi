@@ -4,14 +4,14 @@ Welcome to my GitHub profile! I'm an engineering student specializing in softwar
 
 ## About Me
 
-- 🎓 **Education:** Currently studying at ENSA 
-- 💬 **Ask Me About:** Web development, Desktop Application , Database ,Networking
+- 🎓 **Education:** Computer Science Engineering Student
+- 💬 **Ask Me About:** Web development, Desktop Application , Database ,Testing, Networking
 - 📫 **Contact Me:** [Email](mailto:fatimazohraberradi1@gmail.com)
 
 ## Skills
 
-- **Languages:** C, Java, PHP, HTML, CSS, JavaScript,Python, Ajax
-- **Frameworks:** Laravel,TailwindCss, JEE, JavaSwing
+- **Technologies:** C, Java, PHP, HTML, CSS, JavaScript,Python, Ajax
+- **Frameworks:**Angular, Laravel,TailwindCss, JEE, Spring Boot
 - **Database:** MySQL,Oracle,MongoDB, PL/SQL
 - **Tools:** Jupyter Notebook, Oxygen XML Editor,Docker, VsCode,Intellij ,NetBeans,Eclipse,SqlDeveloper, VM, Cisco Packet Tracer
 
