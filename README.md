@@ -3,7 +3,7 @@
 ## Information 
 -🎓 **Education:** Computer Science Engineering Student<br>- 💬 **Ask Me About:** Web development, Desktop Application , Database ,Testing, Networking<br>- 📫 **Contact Me:** [Email](mailto:fatimazohraberradi1@gmail.com)<br><br>
 ## Skills
--**Technologies:** C, Java, PHP, HTML, CSS3, JavaScript, Python, Ajax<br>- **Frameworks:** Angular, Laravel,TailwindCss, Spring Boot<br>- **Platforms and Libraries:Node.Js, JEE<br>- **Database:** MySQL,Oracle,MongoDB, PL/SQL<br>- **Tools:** Jupyter Notebook, Oxygen XML Editor,Docker, VsCode,Intellij ,Docker,NetBeans,Eclipse,SqlDeveloper, VM, Cisco Packet Tracer<br>- **Version Control:Git , Github, Gitlab
+-**Technologies:** C, Java, PHP, HTML, CSS3, JavaScript, Python, Ajax<br>- **Frameworks:** Angular, Laravel,TailwindCss, Spring Boot<br>- **Platforms and Libraries:** Node.Js, JEE<br>- **Database:** MySQL,Oracle,MongoDB, PL/SQL<br>- **Tools:** Jupyter Notebook, Oxygen XML Editor,Docker, VsCode,Intellij ,Docker,NetBeans,Eclipse,SqlDeveloper, VM, Cisco Packet Tracer<br>- **Version Control:** Git , Github, Gitlab
 
 
 ## 🌐 Socials:
