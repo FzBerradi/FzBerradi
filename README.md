@@ -8,7 +8,7 @@
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://fatimazahraberradi.medium.com/) 
-[![Linkdlen](https://img.shields.io/badge/Linkdlen-12100E?logo=linkdlen&logoColor=white)]([https://medium.com/@https://fatimazahraberradi.medium.com/](https://ma.linkedin.com/in/fatima-zohra-berradi-69b942237) 
+[![Linkdlen](https://img.shields.io/badge/Linkdlen-12100E?logo=linkdlen&logoColor=white)]([https://linkdlen.com/@https://fatimazahraberradi.medium.com/](https://ma.linkedin.com/in/fatima-zohra-berradi-69b942237) 
 
 # 💻 Tech Stack:
 #### Technologies (Languages, Web Technologies, FRAMEWORKS, PLATFORMS & LIBRARIES OS, Databases, SERVERS, DESIGN, ML/DL, CI/CD VCS):<br>
