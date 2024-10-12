@@ -24,8 +24,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=FzBerradi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=FzBerradi&limit=5&theme=noctis_minimus&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=FzBerradi&limit=5&theme=radical&combine_all_yearly_contributions=true)---
 
----
 [![](https://visitcount.itsvg.in/api?id=FzBerradi&icon=0&color=6)](https://visitcount.itsvg.in)
 
