@@ -14,6 +14,7 @@
 #### Technologies (Languages, Web Technologies, Frameworks, Platforms, Libraries, OS, Databases, Servers, Design, ML/DL, CI/CD, VCS):
 
 - **Languages:** <br>
+
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -22,6 +23,7 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 - **Web Technologies & Frameworks:** <br>
+
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -34,10 +36,13 @@
   ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
 - **Databases:** <br>
+
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Oracle](https://img.shields.io/badge/Oracle-%23FF7A00.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
 - **Servers & Cloud:** <br>
+
   ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
   ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
   ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-%23FF7A00.svg?style=for-the-badge&logo=oracle&logoColor=white)
