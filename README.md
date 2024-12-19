@@ -69,6 +69,7 @@
 
 - **Testing:** <br>
   ![PHPUnit](https://img.shields.io/badge/PHPUnit-%237B7B7B.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![Selenium](https://img.shields.io/badge/Selenium-%237B7B7B.svg?style=for-the-badge&logo=selenium&logoColor=green)
 
 - **Project Management:** <br>
   ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
