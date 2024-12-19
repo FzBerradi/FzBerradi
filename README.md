@@ -35,6 +35,7 @@
   ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
   ![Java EE](https://img.shields.io/badge/Java%20EE-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
   ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+  ![.Net](https://img.shields.io/badge/dotnet-%230769AD.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 
 - **Databases:** <br>
 
