@@ -66,6 +66,13 @@
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  
+- **Modeling & Design Tools:** <br>
+  ![UML](https://img.shields.io/badge/UML-%2300599C.svg?style=for-the-badge&logo=visualparadigm&logoColor=white)
+  ![BPMN](https://img.shields.io/badge/BPMN-%2300599C.svg?style=for-the-badge&logo=bpms&logoColor=white)
+  ![PlantUML](https://img.shields.io/badge/PlantUML-%23005C8C.svg?style=for-the-badge&logo=plantuml&logoColor=white)
+  ![Draw.io](https://img.shields.io/badge/Draw.io-%23F08705.svg?style=for-the-badge&logo=draw.io&logoColor=white)
+  ![Lucidchart](https://img.shields.io/badge/Lucidchart-%23FF8C00.svg?style=for-the-badge&logo=lucidchart&logoColor=white)
 
 - **Testing:** <br>
   ![PHPUnit](https://img.shields.io/badge/PHPUnit-%237B7B7B.svg?style=for-the-badge&logo=php&logoColor=white)
