@@ -67,7 +67,7 @@
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-  - **Business Intelligence & Data Tools:** <br>
+- **Business Intelligence & Data Tools:** <br>
   ![Pentaho](https://img.shields.io/badge/Pentaho-%2368B3A0.svg?style=for-the-badge&logo=pentaho&logoColor=white)
   ![Mockaroo](https://img.shields.io/badge/Mockaroo-%23F07A00.svg?style=for-the-badge&logo=mockaroo&logoColor=white)
   ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white)
