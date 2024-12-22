@@ -69,11 +69,13 @@
 
 - **Testing:** <br>
   ![PHPUnit](https://img.shields.io/badge/PHPUnit-%237B7B7B.svg?style=for-the-badge&logo=php&logoColor=white)
-  ![Selenium](https://img.shields.io/badge/Selenium-%237B7B7B.svg?style=for-the-badge&logo=selenium&logoColor=green)
+  ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 
 - **Project Management:** <br>
   ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
   ![Jira](https://img.shields.io/badge/Jira-%230A74DA.svg?style=for-the-badge&logo=jira&logoColor=white)
+- **ERP Systems & Software Tools:** <br>
+  ![Odoo](https://img.shields.io/badge/Odoo-%23439A97.svg?style=for-the-badge&logo=odoo&logoColor=white)
 
 - **API Development:** <br>
   ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
