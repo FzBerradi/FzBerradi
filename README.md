@@ -96,8 +96,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=FzBerradi&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FzBerradi&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FzBerradi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berradi&layout=compact&hide=html&show_icons=true)
-[![Berradi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=berradi&show_icons=true&count_private=true&hide=prs)](https://github.com/berradi)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
